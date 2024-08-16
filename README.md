@@ -2,7 +2,7 @@
  Projeto de engenharia de software
 
 Projeto: Pokedex
-Descrição: Criar uma pokedex consumindo a pokeapi.
+Descrição: Criar uma pokedex consumindo a  <a href="https://pokeapi.co"> pokeapi<a/>.
 
 Equipe:
  - <a href="https://github.com/kauecavalcante" a>Kauê Cavalcante<a/>
