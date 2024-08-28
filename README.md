@@ -1,8 +1,8 @@
 # projeto-engenharia
  Projeto de engenharia de software
 
-Projeto: Pokedex
-Descrição: Criar uma pokedex consumindo a  <a href="https://pokeapi.co"> pokeapi<a/>.
+Projeto: Orfaflex
+Descrição: Criar um aplicativo que crie, edite e remova seus orcamentos de projetos. 
 
 Equipe:
  - <a href="https://github.com/kauecavalcante" a>Kauê Cavalcante<a/>
