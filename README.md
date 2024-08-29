@@ -9,5 +9,6 @@ Equipe:
  - <a href="https://github.com/pedroteixeira02" a>Pedro Teixeira<a/>
  - <a href="https://github.com/JoaoPedro-09" a>Jõao Pedro<a/>
 - <a href="https://github.com/marjufeitosa" a>Maju Feitosa<a/>
+- <a href="https://github.com/BieldoPry" a>Gabriel Rabello<a/>
 
 
