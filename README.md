@@ -1,7 +1,7 @@
 # projeto-engenharia
  Projeto de engenharia de software
 
-Projeto: Orfaflex
+Projeto: Orcaflex
 Descrição: Criar um aplicativo que crie, edite e remova seus orcamentos de projetos. 
 
 Equipe:
